@@ -1,5 +1,4 @@
-# My-SQL-Project
-AirlineDB Capstone
+# airlinedb-sql-analysis
 
 **📌 Project Overview**
 
